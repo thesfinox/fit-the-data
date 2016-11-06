@@ -12,16 +12,16 @@ of them.
 
 These Wolfram Mathematica notebooks are structured in distinct sections:
 * Data input:
-	* important names are firstly set
-	* input files are required for data manipulation
+    * important names are firstly set
+    * input files are required for data manipulation
 * First analysis:
-	* notable parameters (chi squared, etc.) are calculated 
-	* data is plotted and saved
+    * notable parameters (chi squared, etc.) are calculated 
+    * data is plotted and saved
 * Second analysis:
-	* given previous parameters, a more refined calculation is performed
-	* data is plotted and saved in different position
+    * given previous parameters, a more refined calculation is performed
+    * data is plotted and saved in different position
 * Third analysis:
-	* if needed, errors and distributions are determined *a posteriori*
+    * if needed, errors and distributions are determined *a posteriori*
 
 # MOTIVATION
 
