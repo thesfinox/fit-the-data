@@ -31,7 +31,7 @@ reliable data to store, during the experiments.
 
 # Contributors
 
-Contributors are welcomed to improve and criticize (keeping in mind that 
+Contributors are welcome to improve and criticize (keeping in mind that 
 we are not software developers and the purpose of this code was merely to 
 save us a lot of work: it was firstly intended to meet our particular needs 
 in that specific situation, *see _MOTIVATION_*) any of the content here 
