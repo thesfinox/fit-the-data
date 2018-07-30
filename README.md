@@ -39,5 +39,5 @@ provided.
 
 # License
 
-Code is distributed under the GNU GENERAL PUBLIC LICENSE. Anyone can improve 
+Code is distributed under the MIT license. Anyone can improve 
 and redistribute the code.
